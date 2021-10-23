@@ -1,4 +1,4 @@
-package hongbao;
+package myPractice.hongbao;
 
 public class User {
 

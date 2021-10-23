@@ -1,4 +1,4 @@
-package hongbao;
+package myPractice.hongbao;
 
 import java.util.ArrayList;
 import java.util.Random;
